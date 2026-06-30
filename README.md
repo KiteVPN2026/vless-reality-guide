@@ -43,7 +43,7 @@ If you want the maximum protection of VLESS-Reality without the complexity of ma
 
 #### Download & Get Started
 Experience next-gen protocol acceleration today:
-- **Visit Website**: [KiteVPN](http://kitevip.vip)
+- **Visit Website**: [KiteVPN](https://kitevip.vip?f=github)
 - Support for iOS, Android, macOS, and Windows with a single account.
 
 ---
@@ -86,7 +86,7 @@ VLESS-Reality 不使用自签证书，而是直接“借用”网络上已有的
 - **免配置，开箱即用**：无需了解任何技术细节，在 iOS、Android、macOS 和 Windows 上均可一键安全连接。
 
 #### 立即下载与体验
-- **官方网站**：[KiteVPN](http://kitevip.vip)
+- **官方网站**：[KiteVPN](https://kitevip.vip?f=github)
 - 开启免费试用，体验真正无感的抗干扰网络连接。
 
 ---
@@ -130,5 +130,5 @@ VLESS-Reality 不使用自签证书，而是直接“借用”网络上已有的
 
 #### Скачать и начать пользоваться
 Испытайте скорость нового поколения прямо сейчас:
-- **Официальный сайт**: [KiteVPN](http://kitevip.vip)
+- **Официальный сайт**: [KiteVPN](https://kitevip.vip?f=github)
 - Зарегистрируйтесь и получите бесплатный пробный доступ на всех своих устройствах.
